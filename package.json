@@ -1,0 +1,19 @@
+{
+  "name": "@ekisler/githubpackageregistry",
+  "version": "1.0.0",
+  "description": "Github Package Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekisler/githubpackageregistry.git"
+  },
+  "author": "ekisler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekisler/githubpackageregistry/issues"
+  },
+  "homepage": "https://github.com/ekisler/githubpackageregistry#readme"
+}
